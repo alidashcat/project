@@ -1,4 +1,4 @@
-# project
+# Alice is LIFTING.
 
 ## project-ui
 
